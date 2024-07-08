@@ -1,0 +1,122 @@
+{
+  "project_info": {
+    "project_number": "461286659200",
+    "firebase_url": "https://eeatro-ad610-default-rtdb.firebaseio.com",
+    "project_id": "eeatro-ad610",
+    "storage_bucket": "eeatro-ad610.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:461286659200:android:09688b2c495398421a4265",
+        "android_client_info": {
+          "package_name": "com.eeatro.deliveryboy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "461286659200-90rptonqu253svm7ldd679mh4jsgk9sq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.eeatro.deliveryboy",
+            "certificate_hash": "43897af895880d7d5796cb854b9719e75bdc23f1"
+          }
+        },
+        {
+          "client_id": "461286659200-fojhbb6dgjlqvor7pta7aic6vvlkomqr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIFpAOrbHZSSRzepOEN6zbpqNx1vDEtJg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "461286659200-fojhbb6dgjlqvor7pta7aic6vvlkomqr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:461286659200:android:bde5b85b70036be61a4265",
+        "android_client_info": {
+          "package_name": "com.eeatro.euser"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "461286659200-9p0a2sa7aq50rmrqnar52gmor32haasq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.eeatro.euser",
+            "certificate_hash": "3cbf2b33ef6adcdb1fd5c3afd1c15df22edbf2e2"
+          }
+        },
+        {
+          "client_id": "461286659200-fojhbb6dgjlqvor7pta7aic6vvlkomqr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIFpAOrbHZSSRzepOEN6zbpqNx1vDEtJg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "461286659200-fojhbb6dgjlqvor7pta7aic6vvlkomqr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:461286659200:android:ab6f22e74b39bc3d1a4265",
+        "android_client_info": {
+          "package_name": "com.eeatro.restaurant"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "461286659200-4948hkk4h6m1j14tbmf18462k83r66t9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.eeatro.restaurant",
+            "certificate_hash": "43897af895880d7d5796cb854b9719e75bdc23f1"
+          }
+        },
+        {
+          "client_id": "461286659200-fojhbb6dgjlqvor7pta7aic6vvlkomqr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIFpAOrbHZSSRzepOEN6zbpqNx1vDEtJg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "461286659200-fojhbb6dgjlqvor7pta7aic6vvlkomqr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
